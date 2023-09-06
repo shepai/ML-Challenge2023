@@ -23,7 +23,7 @@ You should get something like this:
 To visualise this data take a look at the visualiser code provided. 
 
 ## Rules
-You must be an undergraduate or master's student. 
+Anyone is welcome to give it a go - but to win prizes you must be a Sussex undergraduate or master's student. 
 
 By the end we would like you to submit your model (the file and code to load the parameters into a functioning model). For example, if you made a pytorch neural network, we would want the model.pth and then a .py or .ipynb file to open and load your network parameters. Any data preprocessing should be clear on this page as a function that takes in the parameter of the dataframe $df$ mentioned above, and outputs in the format ready for your model. This is so we can see how your model performs on unseen data. This file should be less than 10MB. 
 

@@ -2,6 +2,8 @@
 ## Task
 Your task is to classify sensor data to determine whether the movement is part of walking or driving. The data set has been prepared with columns representing time step, action (1 for walking and 4 for driving), and then the acceleration in the x, y and z. This data is a subset of the data from <a href="https://physionet.org/content/accelerometry-walk-climb-drive/1.0.0/#files">this dataset</a>. 
 
+There is an award for best accuracy and another for the most creative solution. 
+
 ## Downloading the data
 You can simply download the csv file or clone this repository. Once you have the csv file local you can open and view it with pandas:
 ```
@@ -23,6 +25,15 @@ To visualise this data take a look at the visualiser code provided.
 ## Rules
 You must be an undergraduate or master's student. 
 
+By the end we would like you to submit your model (the file and code to load the parameters into a functioning model). For example, if you made a pytorch neural network, we would want the model.pth and then a .py or .ipynb file to open and load your network parameters. Any data preprocessing should be clear on this page. This is so we can see how your model performs on unseen data. This file should be less than 10MB. 
+
+Your solution does not have to be a typical ML approach, any computer science approach is valid. If you do not want to use Python we are open to ideas, please get in contact so we can work out a way how we can test your model. 
+
+The main thing is to have fun with it, this is not coursework and we encourage you to explore and learn new ideas while undertaking the challenge. 
+
+## Submission
+
+Submit using this link:
 
 
 # Bibliography

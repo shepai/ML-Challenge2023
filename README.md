@@ -18,6 +18,7 @@ You should get something like this:
 ...         ...     ...    ...    ...    ...
 ```
 
+To visualise this data take a look at the visualiser code provided. 
 
 ## Rules
 You must be an undergraduate or master's student. 

@@ -35,6 +35,8 @@ The main thing is to have fun with it, this is not coursework and we encourage y
 Deadline: December 29th 2023
 Submit using this link: TBA
 
+## Prizes
+We have two prizes, one for best accuracy and one for most creative solution. Both these prizes are FitBit watches! 
 
 # Bibliography
 Karas, M., Urbanek, J., Crainiceanu, C., Harezlak, J., & Fadel, W. (2021). Labelled raw accelerometry data captured during walking, stair climbing and driving (version 1.0.0). PhysioNet. https://doi.org/10.13026/51h0-a262.

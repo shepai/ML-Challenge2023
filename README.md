@@ -32,8 +32,8 @@ Your solution does not have to be a typical ML approach, any computer science ap
 The main thing is to have fun with it, this is not coursework and we encourage you to explore and learn new ideas while undertaking the challenge. 
 
 ## Submission
-Deadline: December 29th 2023
-Submit using this link: TBA
+Deadline: April 29th 2024
+Submit using this link: (https://docs.google.com/forms/d/e/1FAIpQLSe1fRH39M6WCmksYrPqIi_xRKz_hlALWSCIrbduFhzYBrDnsg/viewform?usp=sf_link)
 
 ## Prizes
 We have two prizes, one for best accuracy and one for most creative solution. Both these prizes are FitBit watches! 
